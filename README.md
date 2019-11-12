@@ -1,1 +1,1 @@
-Exercício do starter da Rocketseat feito para aprendizagem.
+Exercício do starter de JavaScript da Rocketseat feito para aprendizagem.
